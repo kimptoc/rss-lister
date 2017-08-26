@@ -1,1 +1,5 @@
-console.log("loaded!");
+$(function() {
+
+    console.log("loaded2!");
+
+});
