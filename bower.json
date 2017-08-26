@@ -15,7 +15,6 @@
     "tests"
   ],
   "dependencies": {
-    "rss-parser": "^2.10.3",
-    "jquery": "^3.2.1"
+    "rss-parser": "^2.10.3"
   }
 }
